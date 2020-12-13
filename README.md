@@ -1,4 +1,10 @@
-# timer
+# CodeFocus
+
+> This repository is mostly a placeholder for future work, however please check out the issues and give your thoughts on anything and it would be appreciated, thanks!
+
+IntelliJ IDE (Idea, PyCharm, Clion, Rider, GoLand, WebStorm, etc.) to help you focus on the task(s) you are currently working on completing, without getting distracted on working on something tangential or ultimately not effective towards accomplishing your task(s).
+
+---
 
 ![Build](https://github.com/tarasivashchuk/timer/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
